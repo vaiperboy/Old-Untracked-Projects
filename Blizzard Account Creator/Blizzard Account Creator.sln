@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blizzard Account Creator", "Blizzard Account Creator.csproj", "{AC7DF9CE-4A32-492E-A796-F3F2BC76FFAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blizzard Account CreatorTests", "..\Blizzard Account CreatorTests\Blizzard Account CreatorTests.csproj", "{6218496D-9907-4EF9-8BFE-AB32F15B94A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoppy Maker", "..\Shoppy Maker\Shoppy Maker.csproj", "{2648D230-1D29-4E49-ADDA-8A95E8DB74CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7DF9CE-4A32-492E-A796-F3F2BC76FFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7DF9CE-4A32-492E-A796-F3F2BC76FFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7DF9CE-4A32-492E-A796-F3F2BC76FFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7DF9CE-4A32-492E-A796-F3F2BC76FFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6218496D-9907-4EF9-8BFE-AB32F15B94A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6218496D-9907-4EF9-8BFE-AB32F15B94A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6218496D-9907-4EF9-8BFE-AB32F15B94A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6218496D-9907-4EF9-8BFE-AB32F15B94A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2648D230-1D29-4E49-ADDA-8A95E8DB74CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2648D230-1D29-4E49-ADDA-8A95E8DB74CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2648D230-1D29-4E49-ADDA-8A95E8DB74CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2648D230-1D29-4E49-ADDA-8A95E8DB74CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B01DBAC-0B98-4487-9DEF-B246848EED35}
+	EndGlobalSection
+EndGlobal
