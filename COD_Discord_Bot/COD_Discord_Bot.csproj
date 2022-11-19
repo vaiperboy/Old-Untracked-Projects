@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.0.0-nightly-00745" />
+    <PackageReference Include="DSharpPlus.CommandsNext" Version="4.0.0-nightly-00745" />
+    <PackageReference Include="DSharpPlus.Interactivity" Version="4.0.0-nightly-00745" />
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.50.0.2245" />
+    <PackageReference Include="Google.GData.Client" Version="2.2.0" />
+    <PackageReference Include="Google.GData.Extensions" Version="2.2.0" />
+    <PackageReference Include="Google.GData.Spreadsheets" Version="2.2.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.26" />
+    <PackageReference Include="ini-parser" Version="2.5.2" />
+    <PackageReference Include="MailKit" Version="2.8.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="NLog" Version="4.7.2" />
+    <PackageReference Include="Simple-HTTP" Version="1.0.6" />
+  </ItemGroup>
+
+</Project>
