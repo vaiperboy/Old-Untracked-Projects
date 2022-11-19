@@ -25,3 +25,5 @@ The projects are sorted in descending order, **having the most interesting/compl
 | [Quote Displayer](QuoteDisplayer/) | _16/8/2022_ | `NodeJS` **(ReactJS, ExpressJS)** | `small` | Only a small project to display quotes on a nicely formatted website that I have it communicate with the backend API
 | [Fun Discord Bots](Discord%20Bots/) | _1/7/2019 till 28/12/2019_ | `C#` **(.NETCore, Async, Multithreading, APIs)** | `medium` | A console application that abuses the 'reward' system on few discord bots by preforming multiple API requests & with session feature
 | [Subnetter](Subnetter/) | _24/4/2020 till 30/4/2020_ | `C#` **(.NET, Forms)** | `small` | This project was made to help with my studies in a certain course in my university. It helped me with finding the list of hosts, broadcasts and other fields by only providing an IP address and a subnet mask. It does bitwise operations and few other things.
+
+As many other developers out there, there are many more softwares that I ~~cannot find~~ have developed that but poorely written and find no need to post them here.
