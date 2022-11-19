@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subnetter", "Subnetter.csproj", "{805EEBCC-D35C-49D5-AA37-65D3ADB30259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubnetterTests", "..\SubnetterTests\SubnetterTests.csproj", "{D29CE08B-BFD5-4C6D-BDAF-25C4D0CD2D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805EEBCC-D35C-49D5-AA37-65D3ADB30259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805EEBCC-D35C-49D5-AA37-65D3ADB30259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805EEBCC-D35C-49D5-AA37-65D3ADB30259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805EEBCC-D35C-49D5-AA37-65D3ADB30259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29CE08B-BFD5-4C6D-BDAF-25C4D0CD2D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29CE08B-BFD5-4C6D-BDAF-25C4D0CD2D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29CE08B-BFD5-4C6D-BDAF-25C4D0CD2D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29CE08B-BFD5-4C6D-BDAF-25C4D0CD2D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BBF1A58-310B-4BB0-AF02-91CC54F8FA46}
+	EndGlobalSection
+EndGlobal

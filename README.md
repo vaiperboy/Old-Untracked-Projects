@@ -9,8 +9,6 @@ All of these projects were fully developed by me for my own personal use and I h
 
 ---  
 
-## My Projects
-
 I made the list below to make my life and yours easier. It contains the projects and the links to the matching folder of each project.
 The columns are as below:
 - Project Name
@@ -22,7 +20,11 @@ The projects are sorted in descending order, **having the most interesting/compl
 | Project Name | Project duration | Lang & Tech used | Scope | Description |
 | ------------ | ---------------- |----------------- | :---: | ----------- |
 | [Account Creator](Blizzard%20Account%20Creator/) | _26/5/2020 till 16/8/2021_ | `C#` **(.NETCore, Async, Selenium, Multithreaded, API, Logging)** | `big` | This project mass create accounts for a website & phone verify them. It uses `Selenium` for browser emulation (with my own modified driver), plenty of API requests for certain providers and a hefty amount of proper multithreading everywhere.
-| [Discord Bot](COD_Discord_Bot/) | _26/5/2020 till 16/8/2021_ | `C#` **(.NETCore, Async, Multithreaded, API, IMAP, Logging)** | `big` | This project is a complementary with the [Account Creator](Blizzard%20Account%20Creator/). It comes in the form of a Discord bot to call in plenty of commands with full authorization and authentication process for different roles and users.
+| [Discord Bot](COD_Discord_Bot/) | _26/5/2020 till 16/8/2021_ | `C#` **(.NETCore, Async, Multithreaded, API, IMAP, Logging)** | `medium` | This project is a complementary with the [Account Creator](Blizzard%20Account%20Creator/). It comes in the form of a Discord bot to call in plenty of commands with full authorization and authentication process for different roles and users.
 | [IKout In-Game Assister](ikout_assister/) | _11/1/2020 till 11/3/2020_ | `C#` **(.NET, Async, [EmguCV](https://github.com/emgucv/emgucv))** | `medium` | This was made for fun personal use where the tool would help me to capture the cards that were previously thrown on the screen from a game called 'iKout' using [EmguCV](https://github.com/emgucv/emgucv) (an OpenCV wrapper for .NET) and develop a strategy for me to win. The game is ran on the machine via any android emulator (however this project was made for Noxplayer). 
+| [Subnetter](Subnetter/) | 24/4/2020 till 30/4/2020 | `C#` **(.NET, Forms)** | `small` | This project was made to help with my studies in a certain course in my university. It helped me with finding the list of hosts, broadcasts and other fields by only providing an IP address and a subnet mask. It does bitwise operations and few other things.
+| [Quote Displayer](QuoteDisplayer/) | 16/8/2022 | `NodeJS` **(ReactJS, ExpressJS)** | `small` | Only a small project to display quotes on a nice formatted website that I have it communicate with the backend API
+
+
 
 
