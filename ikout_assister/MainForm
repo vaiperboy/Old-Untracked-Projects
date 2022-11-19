@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace ikout_assister {
+    public partial class Form1 : Form {
+        FormOverlay overlay = new FormOverlay();
+        public Form1() {
+            InitializeComponent();
+
+            MouseHook.Start();
+            MouseHook.MouseAction += new EventHandler(onMouseClick);
+            this.TopMost = true;
+        }
+
+        public void onMouseClick(object sender, EventArgs e) {
+            MouseEventArgs mouse = e as MouseEventArgs;
+            //if (mouse.Button == MouseButtons.Middle) {
+                richTextBox1.AppendText($"X= {Cursor.Position.X}; Y= {Cursor.Position.Y}\n");
+            //}
+        }
+
+
+        private void button1_Click(object sender, EventArgs e) {
+            overlay.Show();
+        }
+
+
+    }
+}
