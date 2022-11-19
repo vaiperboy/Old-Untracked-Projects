@@ -1,4 +1,4 @@
-This will be the only README for all the projects. The projects uploaded here work (or at least used to). But again, since I am mass uploading them some of the projects might not adhere to some rules nor principles as some of the projects are a few years old and I was just getting started with programming.
+**This will be the only README for all the projects.** The projects uploaded here work (or at least used to). But again, since I am mass uploading them some of the projects might not adhere to some rules nor principles as some of the projects are a few years old and I was just getting started with programming.
 
 
 # My previously done projects
