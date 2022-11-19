@@ -24,7 +24,7 @@ The projects are sorted in descending order, **having the most interesting/compl
 | [IKout In-Game Assister](ikout_assister/) | _11/1/2020 till 11/3/2020_ | `C#` **(.NET, Async, [EmguCV](https://github.com/emgucv/emgucv))** | `medium` | This was made for fun personal use where the tool would help me to capture the cards that were previously thrown on the screen from a game called 'iKout' using [EmguCV](https://github.com/emgucv/emgucv) (an OpenCV wrapper for .NET) and develop a strategy for me to win. The game is ran on the machine via any android emulator (however this project was made for Noxplayer)
 | [Subnetter](Subnetter/) | _24/4/2020 till 30/4/2020_ | `C#` **(.NET, Forms)** | `small` | This project was made to help with my studies in a certain course in my university. It helped me with finding the list of hosts, broadcasts and other fields by only providing an IP address and a subnet mask. It does bitwise operations and few other things.
 | [Quote Displayer](QuoteDisplayer/) | _16/8/2022_ | `NodeJS` **(ReactJS, ExpressJS)** | `small` | Only a small project to display quotes on a nicely formatted website that I have it communicate with the backend API
-| [Discord Bots](Discord%20Bots/) | _1/7/2019 till 28/12/2019_ | `C#` **(.NETCore, Async, Multithreading, APIs)** | `medium` | A console application that abuses the 'reward' system on few discord bots by preforming multiple API requests & with session feature
+| [Fun Discord Bots](Discord%20Bots/) | _1/7/2019 till 28/12/2019_ | `C#` **(.NETCore, Async, Multithreading, APIs)** | `medium` | A console application that abuses the 'reward' system on few discord bots by preforming multiple API requests & with session feature
 
 
 
